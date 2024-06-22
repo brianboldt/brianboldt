@@ -1,7 +1,7 @@
 -  Hi, I’m @brianboldt
 -  I am committed to continuing to acquire new skills as a lifelong learner and technical enthusiast
 -  Graduated from Computer Programming at Algonquin College in 2023
--  Graduated from Web Development and internet Applications at Loyalist College in 2016
+-  Graduated from Web Development and Internet Applications at Loyalist College in 2016
 -  Graduated from Electronic Engineering Technician - Telecommunications at Algonquin College in 2002
 -  Thank you
 <!---
